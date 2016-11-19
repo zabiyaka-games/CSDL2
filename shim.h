@@ -1,0 +1,5 @@
+#include <SDL.h>
+#include <SDL_gpu.h>
+
+int K_SDL_WINDOWPOS_UNDEFINED = SDL_WINDOWPOS_UNDEFINED;
+
